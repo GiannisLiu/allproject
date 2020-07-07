@@ -8,5 +8,7 @@
 增加menuoption以及+号浮标使得app变得更加的简洁漂亮
 
 
-已有的app功能介绍包含的All_project/AndroiProject的说明文档.doc
+已有的app功能介绍包含的All_project/AndroidstudioProject/Androidlibrary/说明文档.doc
+已有的app.apk安装文件在All_project/AndroidstudioProject/Androidapk路径下
+另外一个文件夹只是方便提交时用到的。
 在这里不再复述请自行查找。
