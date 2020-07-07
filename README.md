@@ -1,0 +1,12 @@
+# allproject
+这是我的第一个git库同步上来的工程，包括了我所有的现在正在做的项目。
+第一个AndroidProject是Android工程这个Android的工程下是我自己花费两天时间开发的一个图书馆APP，
+这个app只包含了简单的增删查改的功能，使用的框架是greendao，目前这个项目正在完善中
+我的下一个Android图书馆版本将会：
+增加OK HTTP以方便app加在网络上的资源、
+增加eventbus来更加方便的处理事件集、
+增加menuoption以及+号浮标使得app变得更加的简洁漂亮
+
+
+已有的app功能介绍包含的All_project/AndroiProject的说明文档.doc
+在这里不再复述请自行查找。
